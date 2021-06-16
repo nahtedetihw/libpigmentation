@@ -1,5 +1,5 @@
 # libpigmentation
-** libpigmentation offers the ability to have different colors from an image. **
+** libpigmentation offers the ability to obtain colors from an image. **
 
 # Usage
 
