@@ -10,12 +10,10 @@
 1. Download this repository
 2. Put the `.dylib` into your `theos/lib` folder
 3. Put the `libpigmentation.h` file into your `theos/include` folder
-4. Done!
 
-## Project configuration
+## Configuration
 1. Add `TWEAKNAME_LIBRARIES = pigmentation` to your makefiles (only to your tweak makefile if you only use the helper functions)
 2. Add `com.nahtedetihw.libpigmentation` to the `Depends` in your `control` file
-3. Done!
 
 ```objc
 @interface libpigmentation : NSObject
