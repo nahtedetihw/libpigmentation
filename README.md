@@ -14,7 +14,7 @@
 3. Put the `libpigmentation.h` file into your `theos/include` folder
 
 ## Configuration
-1. Add `TWEAKNAME_LIBRARIES = pigmentation` to your makefiles (only to your tweak makefile if you only use the helper functions)
+1. Add `TWEAKNAME_LIBRARIES = pigmentation` to your makefile
 2. Add `com.nahtedetihw.libpigmentation` to the `Depends` in your `control` file
 
 ```objc
